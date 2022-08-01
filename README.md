@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 😄
+- Full stack developer
+- C#, Vue, Python
 
 <!--
 **wkg/wkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
