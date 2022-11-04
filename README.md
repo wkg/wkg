@@ -1,6 +1,6 @@
 ### Hello 😄
 - Full stack developer
-- Languages: C#, SQL, Python, JavaScript, HTML, CSS,
+- Languages: C#, Python, JavaScript, HTML, CSS, SQL
 - Frameworks: Vue.js
 
 <!--
