@@ -1,6 +1,7 @@
 ### Hello 😄
 - Full stack developer
-- C#, Vue, Python
+- Languages: C#, Python, JavaScript
+- Frameworks: Vue.js
 
 <!--
 **wkg/wkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
